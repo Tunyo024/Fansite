@@ -1,3 +1,3 @@
 # Fansite
 
-[link](https://tunyo024.github.io/fansite/Fooldal.html)
+[link](https://tunyo024.github.io/fansite/fooldal.html)
