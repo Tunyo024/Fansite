@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-family: Arial;
+    margin: 0;
+  }
+  .feladat{
+    position: relative;
+    color: red;
+    margin-left: 20;
+    width: 100%;
+  }
+  .headerimage {
+    position: relative;
+    max-width: 100%;
+    display: flex;
+  }
+  .header {
+    padding: 5px;
+    background: #b4e7b7;
+  }
+  .row {  
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .table{
+    position: relative;
+    max-width: 100%;
+    display: flex;
+  }
+  .main {
+    flex: 70%;
+    background-color: white;
+    padding: 20px;
+  }
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background: #b4e7b7;
+  }
+  @media screen and (max-width: 700px) {
+    .row, .navbar {   
+      flex-direction: column;
+    }
+  }
