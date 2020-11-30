@@ -1,2 +1,2 @@
 # fansite
-https://tunyo024.github.io/fansite/blob/main/fooldal.html
+https://tunyo024.github.io/fansite/fooldal.html
